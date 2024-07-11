@@ -22,7 +22,7 @@
   "author": {
     "name": "Kevin Wijaya"
   },
-  "license": "BSD-3-Clause",
+  "license": "GPL-3.0 license",
   "dependencies": {
     "compression": "^1.7.4",
     "cookie-parser": "^1.4.6",
