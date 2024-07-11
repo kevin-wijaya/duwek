@@ -1,0 +1,9 @@
+/node_modules
+.env.development
+.excalidraw
+package-lock.json
+
+# private mode
+/public/scripts
+/public/styles
+/src
